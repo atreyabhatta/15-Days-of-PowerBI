@@ -1,0 +1,25 @@
+Day 02 - Power BI Data Import
+
+Topics Covered:
+- Explored the Get Data option in Power BI
+- Imported data from Excel files
+- Imported data from CSV files
+- Learned how to connect Power BI with SQL Server
+- Learned how to import data from Web sources
+- Understood Load vs Transform Data
+- Checked and changed column data types
+- Learned the basics of Import and DirectQuery modes
+
+Practice:
+- Connected an Excel workbook to Power BI
+- Imported a CSV dataset
+- Explored SQL Server connection options
+- Connected to a Web data source
+- Checked Text, Whole Number, Decimal Number and Date data types
+- Practiced using Load and Transform Data options
+
+Resources:
+- Microsoft Learn - Connect to Data Sources in Power BI
+- PowerBI.tips - Get Data tutorials
+
+Status: Completed
