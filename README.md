@@ -10,21 +10,21 @@ Power BI Service, and a final capstone project.
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 01 | Interface, Install & Navigation | ⬜ |
-| Day 02 | Data Import | ⬜ |
-| Day 03 | Power Query — Cleaning Basics | ⬜ |
-| Day 04 | Merge, Append, Pivot & Unpivot | ⬜ |
-| Day 05 | Data Modeling — Star Schema & Relationships | ⬜ |
-| Day 06 | DAX Basics — Columns vs Measures | ⬜ |
-| Day 07 | DAX — CALCULATE, FILTER & Time Intelligence | ⬜ |
-| Day 08 | Advanced DAX — Variables, SUMX & AVERAGEX | ⬜ |
-| Day 09 | Core Visuals | ⬜ |
-| Day 10 | Advanced Visuals & Interactivity | ⬜ |
-| Day 11 | Dashboard Design Principles | ⬜ |
-| Day 12 | Power BI Service — Publish & Share | ⬜ |
-| Day 13 | Row-Level Security & Scheduled Refresh | ⬜ |
-| Day 14 | Capstone Project | ⬜ |
-| Day 15 | Polish, GitHub & Project Pitch | ⬜ |
+| Day 01 | Interface, Install & Navigation | Completed |
+| Day 02 | Data Import | Completed |
+| Day 03 | Power Query — Cleaning Basics | Completed |
+| Day 04 | Merge, Append, Pivot & Unpivot | Completed |
+| Day 05 | Data Modeling — Star Schema & Relationships | Completed |
+| Day 06 | DAX Basics — Columns vs Measures | Completed |
+| Day 07 | DAX — CALCULATE, FILTER & Time Intelligence | Completed |
+| Day 08 | Advanced DAX — Variables, SUMX & AVERAGEX | Completed |
+| Day 09 | Core Visuals | Completed |
+| Day 10 | Advanced Visuals & Interactivity | Completed |
+| Day 11 | Dashboard Design Principles | Completed |
+| Day 12 | Power BI Service — Publish & Share | Completed |
+| Day 13 | Row-Level Security & Scheduled Refresh | Completed |
+| Day 14 | Capstone Project | Completed |
+| Day 15 | Polish, GitHub & Project Pitch | Completed |
 
 ---
 
