@@ -1,0 +1,25 @@
+Day 01 - Power BI Interface, Install & Navigation
+
+Topics Covered:
+- Installed Power BI Desktop
+- Explored the Power BI Desktop interface
+- Learned Report View, Data View and Model View
+- Explored Home, Insert, Modeling and View tabs
+- Understood Filters, Visualizations and Data/Fields panes
+- Loaded a sample dataset for basic navigation practice
+- Learned about the .pbix file format
+- Understood the difference between Power BI Desktop and Power BI Service
+
+Practice:
+- Opened Power BI Desktop
+- Imported a sample dataset
+- Created a basic visual in Report View
+- Inspected the dataset in Data View
+- Explored tables and relationships in Model View
+- Saved the Power BI project as a .pbix file
+
+Resources:
+- Microsoft Learn - Get Started with Power BI
+- Guy in a Cube - Power BI Desktop beginner tutorials
+
+Status: Completed
