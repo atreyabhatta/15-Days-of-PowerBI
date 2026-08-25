@@ -1,0 +1,25 @@
+Day 04 - Power Query: Merge, Append, Pivot/Unpivot
+
+Topics Covered:
+- Merge Queries
+- Join Types
+- Left Outer Join
+- Inner Join
+- Full Outer Join
+- Append Queries
+- Pivot Column
+- Unpivot Columns
+- Expand Columns
+- Query Dependencies
+
+Practice:
+- Merged two tables using a common CustomerID column
+- Practiced Left Outer, Inner and Full Outer joins
+- Expanded columns after merging customer information
+- Appended tables with matching column structures
+- Practiced Pivot to convert rows into columns
+- Practiced Unpivot to convert columns into rows
+- Compared Merge and Append operations
+- Reviewed Query Dependencies and Applied Steps
+
+Status: Completed
