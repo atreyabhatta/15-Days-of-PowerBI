@@ -1,0 +1,25 @@
+Day 03 - Power Query: Cleaning Basics
+
+Topics Covered:
+- Power Query Editor
+- Promote Headers
+- Change Data Types
+- Remove Columns
+- Remove Rows and Null Values
+- Remove Duplicates
+- Rename Columns
+- Trim and Clean Text
+- Applied Steps
+- Close & Apply
+
+Practice:
+- Opened Power Query Editor using Transform Data
+- Promoted the first row as column headers
+- Fixed data types for Text, Number and Date columns
+- Removed unwanted columns and duplicate rows
+- Filtered out blank/null values
+- Applied Trim and Clean transformations to text columns
+- Reviewed Applied Steps to understand the transformation process
+- Loaded the cleaned data back into Power BI using Close & Apply
+
+Status: Completed
