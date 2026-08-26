@@ -1,0 +1,22 @@
+Day 06 - DAX Basics: Columns vs Measures
+
+Topics Covered:
+- Calculated Columns
+- Measures
+- DAX Syntax
+- SUM, AVERAGE, COUNT, COUNTROWS
+- Row Context vs Filter Context
+- Implicit vs Explicit Measures
+- Formatting DAX measures
+
+Practice:
+- Created a Calculated Column (Profit = Sales - Cost)
+- Created basic Measures using SUM and AVERAGE functions
+- Compared behavior of Calculated Column vs Measure in a visual
+- Practiced COUNTROWS to count records in a table
+- Understood Row Context (applies per row, used in calculated columns)
+- Understood Filter Context (applies based on visual filters, used in measures)
+- Formatted a measure with currency formatting
+- Placed new measures into a Measures table for organization
+
+Status: Completed
