@@ -1,0 +1,24 @@
+Day 05 - Data Modeling: Star Schema, Relationships
+
+Topics Covered:
+- Star Schema
+- Fact Tables
+- Dimension Tables
+- One-to-Many Relationships
+- Many-to-Many Relationships
+- Cardinality
+- Cross Filter Direction
+- Model View
+- Active vs Inactive Relationships
+- Snowflake Schema (comparison)
+
+Practice:
+- Identified Fact table (Sales) and Dimension tables (Customer, Product, Date) in sample dataset
+- Built relationships between Fact and Dimension tables using common keys
+- Set cardinality for each relationship (One-to-Many)
+- Practiced Single vs Both cross filter direction
+- Compared Star Schema vs Snowflake Schema
+- Reviewed Model View layout and arranged tables for clarity
+- Checked relationship validity using a test visual (table + slicer)
+
+Status: Completed
