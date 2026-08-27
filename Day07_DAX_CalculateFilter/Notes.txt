@@ -1,0 +1,23 @@
+Day 07 - DAX: CALCULATE, FILTER, Time Intelligence
+
+Topics Covered:
+- CALCULATE Function
+- Filter Context Modification
+- FILTER Function
+- ALL Function
+- Time Intelligence Functions
+- TOTALYTD, TOTALQTD, TOTALMTD
+- SAMEPERIODLASTYEAR
+- DATEADD
+- Date Table Requirement
+
+Practice:
+- Built a measure using CALCULATE to get Sales for a specific Region
+- Used FILTER inside CALCULATE for row-level conditional filtering
+- Practiced ALL function to remove existing filters (e.g. % of Total calculation)
+- Created a proper Date table and marked it as Date Table in Model View
+- Built Year-to-Date (TOTALYTD) and Month-to-Date (TOTALMTD) measures
+- Built a Year-over-Year comparison measure using SAMEPERIODLASTYEAR
+- Tested measures against slicers to confirm filter context worked correctly
+
+Status: Completed
