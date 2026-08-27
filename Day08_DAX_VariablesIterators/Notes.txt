@@ -1,0 +1,22 @@
+Day 08 - DAX Advanced: Variables, SUMX/AVERAGEX
+
+Topics Covered:
+- DAX Variables (VAR / RETURN)
+- Iterator Functions
+- SUMX
+- AVERAGEX
+- MINX, MAXX
+- Row-by-Row Evaluation
+- Performance Benefits of Variables
+
+Practice:
+- Rewrote a multi-step measure using VAR/RETURN for readability and reuse
+- Built a SUMX measure to calculate row-wise Revenue (Quantity * Price)
+- Built an AVERAGEX measure for average order value per transaction
+- Compared plain SUM vs SUMX behavior on a calculated expression
+- Used variables to store an intermediate CALCULATE result and reused it twice
+  in the same measure (avoiding repeated evaluation)
+- Tested performance difference conceptually - variables evaluate once vs
+  repeated inline expressions
+
+Status: Completed
