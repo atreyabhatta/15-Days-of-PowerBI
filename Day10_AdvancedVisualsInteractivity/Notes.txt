@@ -1,0 +1,22 @@
+Day 10 - Advanced Visuals & Interactivity
+
+Topics Covered:
+- Slicers
+- Cross-Filtering / Cross-Highlighting
+- Edit Interactions
+- Drill-Through Pages
+- Bookmarks
+- Selection Pane
+- Sync Slicers
+- Tooltips (Default and Report Page Tooltips)
+
+Practice:
+- Added Slicers for Region and Date, tested filtering across all visuals
+- Explored Edit Interactions to set visuals to Filter/Highlight/None
+- Created a Drill-Through page (Product Detail) linked from the main Sales chart
+- Built Bookmarks to save different report states (e.g. filtered view vs default)
+- Used Selection Pane to manage hidden objects and layering
+- Set up Sync Slicers to apply one slicer across multiple report pages
+- Created a custom Report Page Tooltip for extra context on hover
+
+Status: Completed
