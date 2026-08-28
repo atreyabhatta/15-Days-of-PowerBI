@@ -1,0 +1,23 @@
+Day 09 - Core Visuals
+
+Topics Covered:
+- Bar and Column Charts
+- Line Charts
+- Pie and Donut Charts
+- Table and Matrix Visuals
+- Card Visual (KPI single value)
+- Combo Chart
+- Formatting Pane basics
+- Field Wells (Axis, Legend, Values)
+
+Practice:
+- Built a Column Chart to compare Sales across Regions
+- Built a Line Chart to show Sales trend over time (using Date table)
+- Built a Pie Chart for category-wise proportion of Sales
+- Built a Table and a Matrix visual to show detailed row-level data
+- Added a Card visual for Total Sales KPI
+- Built a Combo Chart (column + line) to compare Sales and Profit Margin
+- Explored Formatting pane - title, data labels, colors, axis settings
+- Practiced dragging fields into correct wells (Axis, Legend, Values)
+
+Status: Completed
