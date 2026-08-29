@@ -1,0 +1,24 @@
+Day 12 - Power BI Service - Publish & Share
+
+Topics Covered:
+- Power BI Service Overview
+- Workspaces
+- Publishing a Report (Desktop to Service)
+- Dashboards vs Reports (Service-level distinction)
+- Sharing a Report/Dashboard
+- Access Permissions (Viewer, Contributor, Member, Admin)
+- Pinning Visuals to a Dashboard
+- Workspace Apps
+
+Practice:
+- Signed into Power BI Service (app.powerbi.com)
+- Created a new Workspace for the capstone project
+- Published the .pbix report from Desktop to the Workspace (Home > Publish)
+- Explored the difference between a Report (interactive, from .pbix) and a
+  Dashboard (single-page pinned tiles from one or more reports)
+- Pinned key visuals from the report to a new Dashboard
+- Shared the report with a test link and reviewed permission levels
+  (Viewer vs Contributor)
+- Explored creating a Workspace App for a packaged, read-only distribution view
+
+Status: Completed
