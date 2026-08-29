@@ -1,0 +1,24 @@
+Day 11 - Dashboard Design Principles
+
+Topics Covered:
+- Dashboard Purpose and Audience
+- Z-Pattern Reading Layout (top-left = high priority)
+- Gestalt Principles (proximity, alignment, similarity)
+- Color Theory for Dashboards
+- Consistent Theme Usage
+- Whitespace and Visual Hierarchy
+- Avoiding Chart Clutter
+- Card Visuals for Key Metrics
+- Custom Report Themes (JSON theme file)
+
+Practice:
+- Reviewed 3-5 key business questions the dashboard should answer before building
+- Rearranged existing visuals to follow top-left-to-bottom-right reading priority
+- Applied a consistent color palette (green = positive, red = negative) across visuals
+- Removed unnecessary gridlines, borders, and redundant labels for cleaner look
+- Applied a custom Report Theme (JSON) for brand-consistent colors and fonts
+- Grouped related visuals together and aligned them using the Format pane's
+  alignment tools (align left, distribute vertically)
+- Reviewed final layout against Gestalt principles (grouping related KPIs together)
+
+Status: Completed
