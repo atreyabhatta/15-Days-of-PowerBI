@@ -1,0 +1,25 @@
+Day 14 - Capstone Project
+
+Topics Covered:
+- End-to-End Project Workflow
+- Dataset Selection (reused Superstore dataset from SQL phase)
+- Data Import + Power Query Cleaning
+- Data Modeling (Star Schema)
+- DAX Measures (Sales, Profit, YoY Growth)
+- Report Building (multi-page report)
+- Dashboard Design Applied
+- Publishing to Power BI Service
+
+Practice:
+- Reused the Superstore dataset (same one used in SQL phase) for continuity
+  across the portfolio
+- Imported and cleaned data using Power Query (types, duplicates, trimming)
+- Built a Star Schema model with Sales as Fact table and Customer/Product/Date
+  as Dimension tables
+- Wrote core DAX measures: Total Sales, Total Profit, Profit Margin %, YoY Growth
+- Built a 3-page report: Overview, Regional Analysis, Product Performance
+- Applied dashboard design principles from Day 11 (layout, color, whitespace)
+- Added slicers for Region, Category, and Date range
+- Published the finished report to Power BI Service workspace
+
+Status: Completed
