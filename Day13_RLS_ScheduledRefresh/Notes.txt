@@ -1,0 +1,26 @@
+Day 13 - Row-Level Security + Scheduled Refresh
+
+Topics Covered:
+- Row-Level Security (RLS) Overview
+- Static RLS (fixed roles/filters)
+- Dynamic RLS (based on logged-in user)
+- Security Roles in Power BI Desktop
+- DAX Filter for Roles (USERPRINCIPALNAME)
+- Testing Roles ("View As Roles")
+- Assigning Roles in Power BI Service
+- Scheduled Refresh Setup
+- Gateway Requirement (for on-premises sources)
+- Refresh Failure Notifications
+
+Practice:
+- Created a Static RLS role restricting data to a single Region (Modeling > Manage Roles)
+- Wrote a DAX filter expression for the role (e.g. [Region] = "East")
+- Tested the role using "View As Roles" inside Power BI Desktop
+- Explored Dynamic RLS concept using USERPRINCIPALNAME() mapped to a user table
+- Published report to Power BI Service and assigned a test user to the role
+  under Dataset Settings > Security
+- Set up Scheduled Refresh in Power BI Service (Settings > Scheduled Refresh)
+- Reviewed Gateway requirement for on-premises/local file sources
+- Enabled refresh failure email notifications
+
+Status: Completed
