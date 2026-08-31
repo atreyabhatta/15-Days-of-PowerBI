@@ -1,0 +1,26 @@
+Day 15 - Polish, GitHub, Pitch
+
+Topics Covered:
+- Final Report Polish (visuals, alignment, colors)
+- README Documentation Best Practices
+- Project Overview Section (Why + What + How)
+- Folder Structure Cleanup
+- Screenshots and GIFs for README
+- Elevator Pitch Writing
+- Publishing Final Link (Power BI Service or PDF export)
+- LinkedIn/Portfolio Post Draft
+
+Practice:
+- Did a final visual polish pass on the capstone report (alignment, consistent
+  colors, removed placeholder text)
+- Rewrote the main repository README with a clear "Why this project" section,
+  key insights, and tools used
+- Added screenshots of the final dashboard to the README
+- Cleaned up folder structure - removed test/scratch files, renamed folders
+  consistently (Day01, Day02, ... Day15)
+- Linked the published Power BI Service report (or exported PDF) in the README
+- Wrote a 3-4 sentence elevator pitch summarizing the project's business
+  question, approach, and key insight
+- Drafted a short LinkedIn post summarizing the 15-day challenge journey
+
+Status: Completed - 15 Days of Power BI Challenge finished
